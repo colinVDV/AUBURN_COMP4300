@@ -1,0 +1,45 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Modeltech_pe_edu_10.4a/examples
+Exorgate
+Z0 w1611637859
+Z1 dC:/Users/Colin/Desktop/Coursework/COMP4300
+Z2 8C:/Users/Colin/Desktop/Coursework/COMP4300/XORgate.vhd
+Z3 FC:/Users/Colin/Desktop/Coursework/COMP4300/XORgate.vhd
+l0
+L1
+V;WcChn7kMdMZ[K@IhCFmo3
+!s100 R7oSh:HgYWnZOE63g=3RE1
+Z4 OP;C;10.4a;61
+32
+Z5 !s110 1611637954
+!i10b 1
+Z6 !s108 1611637954.000000
+Z7 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Colin/Desktop/Coursework/COMP4300/XORgate.vhd|
+Z8 !s107 C:/Users/Colin/Desktop/Coursework/COMP4300/XORgate.vhd|
+!i113 1
+Z9 o-work work -2002 -explicit -O0
+Z10 tExplicit 1
+Abehaviour1
+DEx4 work 7 xorgate 0 22 ;WcChn7kMdMZ[K@IhCFmo3
+l8
+L7
+V8MWROMC]WkC5kkiJ[WDnX1
+!s100 iFGlQg2INE?DRV9_TF9XQ2
+R4
+32
+R5
+!i10b 1
+R6
+R7
+R8
+!i113 1
+R9
+R10

@@ -1,0 +1,16 @@
+C:/Users/Colin/Desktop/Coursework/COMP4300/Labs/mux.vhdl {0 {vcom -work work -2002 -explicit -stats=none C:/Users/Colin/Desktop/Coursework/COMP4300/Labs/mux.vhdl
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+** Error: (vcom-11) Could not find work.bv_arithmetic.
+
+** Error (suppressible): C:/Users/Colin/Desktop/Coursework/COMP4300/Labs/mux.vhdl(1): (vcom-1195) Cannot find expanded name "work.bv_arithmetic".
+
+** Error: C:/Users/Colin/Desktop/Coursework/COMP4300/Labs/mux.vhdl(1): Unknown expanded name.
+** Error: (vcom-11) Could not find work.dlx_types.
+
+** Error (suppressible): C:/Users/Colin/Desktop/Coursework/COMP4300/Labs/mux.vhdl(2): (vcom-1195) Cannot find expanded name "work.dlx_types".
+
+** Error: C:/Users/Colin/Desktop/Coursework/COMP4300/Labs/mux.vhdl(2): Unknown expanded name.
+** Error: C:/Users/Colin/Desktop/Coursework/COMP4300/Labs/mux.vhdl(3): VHDL Compiler exiting
+
+} {4.0 5.0 8.0 10.0 13.0 15.0} {}}

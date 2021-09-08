@@ -1,0 +1,362 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Modeltech_pe_edu_10.4a/examples
+Eadd4
+Z0 w1616191404
+Z1 DPx4 work 9 dlx_types 0 22 >T@WcMMcSd1Z9V=Z>4AZ43
+Z2 DPx4 work 13 bv_arithmetic 0 22 E91`:4VZ886fHoTb3X63L2
+Z3 dC:/Users/Colin/Desktop/Coursework/COMP4300/Labs/Project3
+Z4 8C:/Users/Colin/Desktop/Coursework/COMP4300/Labs/Project3/add4.vhdl
+Z5 FC:/Users/Colin/Desktop/Coursework/COMP4300/Labs/Project3/add4.vhdl
+l0
+L4
+VC5C_[V7la5GN;3Ocd?Hm:2
+!s100 dPH1[1=G8@k:@m`<kYL_e0
+Z6 OP;C;10.4a;61
+32
+Z7 !s110 1616191415
+!i10b 1
+Z8 !s108 1616191414.000000
+Z9 !s90 -reportprogress|300|-work|work|-O0|C:/Users/Colin/Desktop/Coursework/COMP4300/Labs/Project3/add4.vhdl|
+Z10 !s107 C:/Users/Colin/Desktop/Coursework/COMP4300/Labs/Project3/add4.vhdl|
+!i113 1
+Z11 o-work work -O0
+Z12 tExplicit 1
+Abehavior
+R1
+R2
+DEx4 work 4 add4 0 22 C5C_[V7la5GN;3Ocd?Hm:2
+l12
+L11
+Vn=hUj=;X]UYYO7Q29IZ5T2
+!s100 alDKC534Jh;]XPfdgaW5C3
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Pbv_arithmetic
+w1616051435
+R3
+8C:/Users/Colin/Desktop/Coursework/COMP4300/Labs/Project3/work/bva.vhd
+FC:/Users/Colin/Desktop/Coursework/COMP4300/Labs/Project3/work/bva.vhd
+l0
+L15
+VE91`:4VZ886fHoTb3X63L2
+!s100 DK;Y`J0lJAh`j:XUgQ7B<1
+R6
+32
+b1
+Z13 !s110 1616051997
+!i10b 1
+Z14 !s108 1616051997.000000
+!s90 -reportprogress|300|-work|work|C:/Users/Colin/Desktop/Coursework/COMP4300/Labs/Project3/work/bva.vhd|
+!s107 C:/Users/Colin/Desktop/Coursework/COMP4300/Labs/Project3/work/bva.vhd|
+!i113 1
+R11
+R12
+Bbody
+R2
+w1613944645
+8C:/Users/Colin/Desktop/Coursework/COMP4300/Labs/Project3/work/bva-b.vhd
+FC:/Users/Colin/Desktop/Coursework/COMP4300/Labs/Project3/work/bva-b.vhd
+l0
+L1
+VazH^ie=L>mo2dhCYjIz][1
+!s100 ;^d^hPQojBY3:39_Lf`ZP1
+R6
+32
+R13
+!i10b 1
+R14
+!s90 -reportprogress|300|-work|work|C:/Users/Colin/Desktop/Coursework/COMP4300/Labs/Project3/work/bva-b.vhd|
+!s107 C:/Users/Colin/Desktop/Coursework/COMP4300/Labs/Project3/work/bva-b.vhd|
+!i113 1
+R11
+R12
+nbody
+Edlx_register
+Z15 w1616040609
+R1
+R2
+R3
+Z16 8C:/Users/Colin/Desktop/Coursework/COMP4300/Labs/Project3/dlx_register.vhdl
+Z17 FC:/Users/Colin/Desktop/Coursework/COMP4300/Labs/Project3/dlx_register.vhdl
+l0
+L4
+VS3g:kg2BmOKb3QU:B[If;2
+!s100 01j8R2f5?YL;:E]FaJ5VT0
+R6
+32
+Z18 !s110 1616052005
+!i10b 1
+Z19 !s108 1616052005.000000
+Z20 !s90 -reportprogress|300|-work|work|C:/Users/Colin/Desktop/Coursework/COMP4300/Labs/Project3/dlx_register.vhdl|
+Z21 !s107 C:/Users/Colin/Desktop/Coursework/COMP4300/Labs/Project3/dlx_register.vhdl|
+!i113 1
+R11
+R12
+Abehavior01
+R1
+R2
+DEx4 work 12 dlx_register 0 22 S3g:kg2BmOKb3QU:B[If;2
+l10
+L9
+V495dZfdG7VBIOb0gXXI=o2
+!s100 Ol;k]33in9P<;>U9KAKJG2
+R6
+32
+R18
+!i10b 1
+R19
+R20
+R21
+!i113 1
+R11
+R12
+Pdlx_types
+w1613944659
+R3
+8C:/Users/Colin/Desktop/Coursework/COMP4300/Labs/Project3/work/dlx-types.vhd
+FC:/Users/Colin/Desktop/Coursework/COMP4300/Labs/Project3/work/dlx-types.vhd
+l0
+L2
+V>T@WcMMcSd1Z9V=Z>4AZ43
+!s100 E2c;:eYf;hh[jFU?F_ci41
+R6
+32
+R13
+!i10b 1
+R14
+!s90 -reportprogress|30|-work|work|C:/Users/Colin/Desktop/Coursework/COMP4300/Labs/Project3/work/dlx-types.vhd|
+!s107 C:/Users/Colin/Desktop/Coursework/COMP4300/Labs/Project3/work/dlx-types.vhd|
+!i113 1
+R11
+R12
+Emux
+Z22 w1616040326
+R1
+R2
+R3
+Z23 8C:/Users/Colin/Desktop/Coursework/COMP4300/Labs/Project3/mux.vhdl
+Z24 FC:/Users/Colin/Desktop/Coursework/COMP4300/Labs/Project3/mux.vhdl
+l0
+L3
+VGK9bn>@I5e]maRkmQ>h=41
+!s100 G98J6=oGg4A6H6h935J6c3
+R6
+32
+R18
+!i10b 1
+R19
+Z25 !s90 -reportprogress|300|-work|work|C:/Users/Colin/Desktop/Coursework/COMP4300/Labs/Project3/mux.vhdl|
+Z26 !s107 C:/Users/Colin/Desktop/Coursework/COMP4300/Labs/Project3/mux.vhdl|
+!i113 1
+R11
+R12
+Abehavior03
+R1
+R2
+DEx4 work 3 mux 0 22 GK9bn>@I5e]maRkmQ>h=41
+l9
+L8
+Vnb7<V6kGneP4W:0GG=Rgl2
+!s100 ^8;PB3Vd<[<i7cg7NYES23
+R6
+32
+R18
+!i10b 1
+R19
+R25
+R26
+!i113 1
+R11
+R12
+Epcplusone
+w1616050892
+R1
+R2
+R3
+R4
+R5
+l0
+L4
+V^JiN83?UISdMK3VeN6?cL0
+!s100 0Y<>@U2`Q@V;Y6cb5]zV80
+R6
+32
+!s110 1616190922
+!i10b 1
+!s108 1616190922.000000
+Z27 !s90 -reportprogress|300|-work|work|C:/Users/Colin/Desktop/Coursework/COMP4300/Labs/Project3/add4.vhdl|
+R10
+!i113 1
+R11
+R12
+Abehavior
+w1616191274
+R1
+R2
+DEx4 work 9 pcplusone 0 22 ^JiN83?UISdMK3VeN6?cL0
+l12
+L11
+VjGQZaYO1hVBXbU7jIZ00C2
+!s100 LlW3BSB9cN1YU<i^;:dUY0
+R6
+32
+!s110 1616191338
+!i10b 1
+!s108 1616191338.000000
+R27
+R10
+!i113 1
+R11
+R12
+Ereg_file
+Z28 w1616049259
+R1
+R2
+R3
+Z29 8C:/Users/Colin/Desktop/Coursework/COMP4300/Labs/Project3/regfile.vhdl
+Z30 FC:/Users/Colin/Desktop/Coursework/COMP4300/Labs/Project3/regfile.vhdl
+l0
+L4
+VfQHh0Kg4=KCeNWCl:Nam82
+!s100 z]MNBE]kzK@^6;o>bag7E1
+R6
+32
+Z31 !s110 1616192132
+!i10b 1
+Z32 !s108 1616192132.000000
+Z33 !s90 -reportprogress|300|-work|work|-O0|C:/Users/Colin/Desktop/Coursework/COMP4300/Labs/Project3/regfile.vhdl|
+Z34 !s107 C:/Users/Colin/Desktop/Coursework/COMP4300/Labs/Project3/regfile.vhdl|
+!i113 1
+R11
+R12
+Abehavior02
+R1
+R2
+DEx4 work 8 reg_file 0 22 fQHh0Kg4=KCeNWCl:Nam82
+l12
+L10
+VFcCJ>5?iTi<m:YGL^@V>k1
+!s100 ?S^ockeM5B2DQY8:?WYPg0
+R6
+32
+R31
+!i10b 1
+R32
+R33
+R34
+!i113 1
+R11
+R12
+Eregfile
+Z35 w1616211533
+R1
+R2
+R3
+R29
+R30
+l0
+L4
+VB3BGDzZ<gWSnIMY8BB5Ii3
+!s100 kP<;AUlRN>5@0H>]oS6?71
+R6
+32
+Z36 !s110 1616211544
+!i10b 1
+Z37 !s108 1616211544.000000
+R33
+R34
+!i113 1
+R11
+R12
+Abehavior
+R1
+R2
+DEx4 work 7 regfile 0 22 B3BGDzZ<gWSnIMY8BB5Ii3
+l19
+L15
+VFZU`:HMLPNE4:Q<`RGMM_3
+!s100 WHPg:fZEBzGWzS:=Pim`I3
+R6
+32
+R36
+!i10b 1
+R37
+R33
+R34
+!i113 1
+R11
+R12
+Esign_extend
+Z38 w1616210744
+R1
+R2
+R3
+Z39 8C:/Users/Colin/Desktop/Coursework/COMP4300/Labs/Project3/sign_extend.vhdl
+Z40 FC:/Users/Colin/Desktop/Coursework/COMP4300/Labs/Project3/sign_extend.vhdl
+l0
+L4
+V:2BS2:VIV?]aQYLJFgdc_1
+!s100 :73QWVEikW3oNoJ4P2m<81
+R6
+32
+Z41 !s110 1616210759
+!i10b 1
+Z42 !s108 1616210758.000000
+Z43 !s90 -reportprogress|300|-work|work|-O0|C:/Users/Colin/Desktop/Coursework/COMP4300/Labs/Project3/sign_extend.vhdl|
+Z44 !s107 C:/Users/Colin/Desktop/Coursework/COMP4300/Labs/Project3/sign_extend.vhdl|
+!i113 1
+R11
+R12
+Abehavior
+R1
+R2
+DEx4 work 11 sign_extend 0 22 :2BS2:VIV?]aQYLJFgdc_1
+l11
+L10
+V4PCooEMHQGZQ0^K1]b>`?3
+!s100 mPBn?Whf`^e<QMCZzGkVf3
+R6
+32
+R41
+!i10b 1
+R42
+R43
+R44
+!i113 1
+R11
+R12
+Abehavior05
+R1
+R2
+DEx4 work 11 sign_extend 0 22 [3I9U5L?DX:JCaHmO_]7E1
+l10
+L9
+VnAL0UmiLSC2b]12nERhja0
+!s100 U5X`hb6T5ci^A;UBe:Szl3
+R6
+32
+!s110 1616209710
+!i10b 1
+!s108 1616209710.000000
+R43
+R44
+!i113 1
+R11
+R12
+w1616209690

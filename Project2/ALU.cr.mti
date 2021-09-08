@@ -1,0 +1,17 @@
+C:/Users/Colin/Desktop/Coursework/COMP4300/Labs/Project2/Project2.1/work/bva-b.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/Colin/Desktop/Coursework/COMP4300/Labs/Project2/Project2.1/work/bva-b.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Compiling package body bv_arithmetic
+-- Loading package bv_arithmetic
+
+} {} {}} C:/Users/Colin/Desktop/Coursework/COMP4300/Labs/Project2/Project2.1/work/bva.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/Colin/Desktop/Coursework/COMP4300/Labs/Project2/Project2.1/work/bva.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Compiling package bv_arithmetic
+
+} {} {}} C:/Users/Colin/Desktop/Coursework/COMP4300/Labs/Project2/Project2.1/work/dlx-types.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/Colin/Desktop/Coursework/COMP4300/Labs/Project2/Project2.1/work/dlx-types.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Compiling package dlx_types
+
+} {} {}}
